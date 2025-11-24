@@ -1,10 +1,10 @@
-Problem​‍​‌‍​‍‌​‍​‌‍​‍‌ Statement
+**Problem​‍​‌‍​‍‌​‍​‌‍​‍‌ Statement**
 
 College students frequently find it difficult to plan their weekly study schedules in a manner that is both organized and balanced. It is easy to get overwhelmed with managing multiple subjects, deciding what to study each day, and preparing for revision or tests.
 This initiative addresses such a problem by delivering an interactive chatbot capable of autonomously creating a personalized schedule according to user preferences. Based on the inputs it receives, like number of working days, number of periods, subjects, preferred study subject for each day, and the chosen test day, the chatbot, in fact, comes up with a neat and well-organized timetable with random subject allocation while at the same time taking into account the user's priority subject for each day.
 
 
-📌 Scope of the Project
+**Scope of the Project**
 
 
 This undertaking mainly concentrates on:
@@ -25,7 +25,7 @@ g) Outputting the final timetable in a tabular format.
 
 The project is limited to generating timetables and does not entail advanced scheduling algorithms, GUI interfaces, or database storage.
 
- Target Users:-
+**Target Users:-**
 
 
 This chatbot will be useful to the following persons:
@@ -39,7 +39,7 @@ c) Teachers or Institutions in need of a simple automated timetable generator.
 d) Students intending to structure their revision to prepare for examinations.
 
 
-High-Level Features
+**High-Level Features**
 
 
  1. User-friendly Chatbot
